@@ -47,4 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeb35&show_icons=true&locale=en" alt="mikeb35" /></p>
 
 <!-- <a href="https://app.daily.dev/mike_baturin"><img src="https://api.daily.dev/devcards/dee6b63b9819463094422d4654f2338f.png?r=agj" width="400" alt="Mike Baturin's Dev Card"/></a> -->
-<a href="https://app.daily.dev/mike_baturin"><img src="https://github.com/MikeB35/MikeB35/devcard.svg" width="400" alt="Mike Baturin's Dev Card"/></a>
+<a href="https://app.daily.dev/mike_baturin"><img src="https://github.com/MikeB35/MikeB35/blob/main/devcard.svg" width="400" alt="Mike Baturin's Dev Card"/></a>
